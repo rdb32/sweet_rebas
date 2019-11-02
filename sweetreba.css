@@ -329,6 +329,7 @@ input[type=submit]:hover {
     justify-content: center;
     align-items: center;
     font-size: 2vw;
+    margin-bottom: 40px;
 }
 
 .footer i {
